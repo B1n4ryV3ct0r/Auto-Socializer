@@ -23,6 +23,7 @@ Now with interactive console input, you can choose the tone and type of dialogue
    - Designed for maximum avoidance of real conversation
 
    - Helps you dodge unnecessary human interaction with style
+     
 
 
 **Use Cases**
@@ -41,10 +42,12 @@ Now with interactive console input, you can choose the tone and type of dialogue
   - When you're just done with everything, including other people
 
 
+
 **Why Did I Make This?**
   
   
   Because sometimes, being social is *suboptional* — and automation is beautiful.
+
 
 
 **Status**
