@@ -7,6 +7,7 @@ It’s essentially an NPC-style dialogue generator that spits out canned respons
 Now with interactive console input, you can choose the tone and type of dialogue you want, tailoring your generated responses to fit any situation or mood so you don't have to interpert those pesky social cues yourself! Whether you're building a game, an oddly extroverted yet shallow chatbot, or just trying to get through the day with minimal human interaction, this generator is here to help!
 
 
+
 **Features**
 
  
@@ -24,6 +25,7 @@ Now with interactive console input, you can choose the tone and type of dialogue
 
    - Helps you dodge unnecessary human interaction with style
      
+
 
 
 **Use Cases**
@@ -61,4 +63,49 @@ Now with interactive console input, you can choose the tone and type of dialogue
 Yours in solitude,
   
  
-  -rfrankfort.exe / B1n4ryV3ct0r
+  **-rfrankfort.exe / B1n4ryV3ct0r**
+
+--------------------------------------------------------------
+
+## Update — Expanded Tones & Dialogue Types
+
+**v.who.even.cares**
+
+ The same trusted Auto-Socializer you know and love — now with even more flavor, depth, and options to suit your people avoiding needs!
+
+
+### What’s New?
+
+- **More Tones Added!**  
+  Beyond Friendly, Sarcastic, and Formal, you can now choose from the new options such as **Cheerful**, **Melancholic**, and even more to match the vibe of the conversation you do *not* want to be a part of.
+
+- **Expanded Dialogue Types!**  
+  The repertoire has grown beyond greetings, chitchat, and goodbyes to include:  
+  **Compliments**, **Questions**, **Advice**, **Stories**, and **Observations** — covering all your conversational bases so you dont have to!
+
+
+### Why does this matter?
+
+Because avoiding people gracefully requires variety and nuance — now you can sound friendly, sarcastic, formal, cheerful, or melancholic, depending on the audience or your mood, without actually talking to anyone. Win-win. And because I have to meet a new person today so I need all my bases covered.
+
+
+### How to Use
+
+Just run the program as usual. The new tone options and dialogue types will be right there waiting for you in the menus. Pick what tone fits the conversation you want to avoid, 
+and let the Auto-Socializer do the rest!
+
+
+- **Friendly**: The go-to warm and approachable vibe without any of that pesky warmth on your part! 
+- **Sarcastic**: Perfect for passive-aggressive politeness. Or just passive-agressiveness. Or just agressiveness. We're not picky.
+- **Formal**: When you want to sound dignified but distant, or so hauty and unapproachable that people automatically leave you alone
+- **Cheerful**: Brighten conversations without effort or sincerety  
+- **Melancholic**: For when the mood’s more thoughtful or downbeat, when you're depressed and want to drag others down with you, or when you want to say somehting thats guarenteed
+   to get people to ask "are you ok?" (which you can answer with help of the Auto-socializer's yes/no choice for generating more socialization!)
+
+
+------------
+
+
+Stay antisocial, 
+
+**-rfrankfort.exe / B1n4ryV3ct0r**
