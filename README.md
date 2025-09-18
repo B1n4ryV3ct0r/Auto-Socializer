@@ -127,7 +127,7 @@ Because sometimes, being polite is not enough — you need to radiate positivity
 
 - **Introduction Dialogue Option Added!**
  Now you can kick off any interaction with a powerful, polished introduction that sets the tone for your social escape. Whether you want to dazzle, charm, inspire, or piss off,
- the introduction dialogue has you covered.
+ the introduction dialogue option has you covered.
 
 
 ### Why does this matter?
