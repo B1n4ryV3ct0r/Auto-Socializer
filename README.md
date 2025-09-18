@@ -121,11 +121,11 @@ Because sometimes, being polite is not enough — you need to radiate positivity
 
 ### What’s New?
 
--**Gracious Professionalism Tone Added!**
+- **Gracious Professionalism Tone Added!**
  Introducing a brand new, outrageously enthusiastic and over-the-top tone designed to deliver dialogue dripping with kindness, motivation, and legendary team spirit. Perfect for  
  sounding like the most inspiring person in the room while dodging actual conversation.
 
--**Introduction Dialogue Option Added!**
+- **Introduction Dialogue Option Added!**
  Now you can kick off any interaction with a powerful, polished introduction that sets the tone for your social escape. Whether you want to dazzle, charm, inspire, or piss off,
  the introduction dialogue has you covered.
 
