@@ -77,11 +77,12 @@ Yours in solitude,
 ### What’s New?
 
 - **More Tones Added!**  
-  Beyond Friendly, Sarcastic, and Formal, you can now choose from the new options such as **Cheerful**, **Melancholic**, and even more to match the vibe of the conversation you do *not* want to be a part of.
+  Beyond Friendly, Sarcastic, and Formal, you can now choose from the new options such as **Cheerful**, **Melancholic**, and even more to match the vibe of the conversation you do
+  *not* want to be a part of.
 
 - **Expanded Dialogue Types!**  
   The repertoire has grown beyond greetings, chitchat, and goodbyes to include:  
-  **Compliments**, **Questions**, **Advice**, **Stories**, and **Observations** — covering all your conversational bases so you dont have to!
+  **Compliments**, **Questions**, **Advice**, **Stories**, and **Observations** and more — covering all your conversational bases so you dont have to!
 
 
 ### Why does this matter?
@@ -91,8 +92,8 @@ Because avoiding people gracefully requires variety and nuance — now you can s
 
 ### How to Use
 
-Just run the program as usual. The new tone options and dialogue types will be right there waiting for you in the menus. Pick what tone fits the conversation you want to avoid, 
-and let the Auto-Socializer do the rest!
+Just run the program as usual. The new tone option(s) and dialogue type(s) will be right there waiting for you in the menus. Pick what tone fits the conversation you want to 
+avoid, and let the Auto-Socializer do the rest!
 
 
 - **Friendly**: The go-to warm and approachable vibe without any of that pesky warmth on your part! 
@@ -105,7 +106,45 @@ and let the Auto-Socializer do the rest!
 
 ------------
 
-
 Stay antisocial, 
+
+**-rfrankfort.exe / B1n4ryV3ct0r**
+
+--------------------------------------------------------------
+
+## Emergency Update — Gracious Professionalism 
+
+**v.gracious.overload**
+
+Because sometimes, being polite is not enough — you need to radiate positivity with the force of a thousand suns!
+
+
+### What’s New?
+
+-**Gracious Professionalism Tone Added!**
+ Introducing a brand new, outrageously enthusiastic and over-the-top tone designed to deliver dialogue dripping with kindness, motivation, and legendary team spirit. Perfect for  
+ sounding like the most inspiring person in the room while dodging actual conversation.
+
+-**Introduction Dialogue Option Added!**
+ Now you can kick off any interaction with a powerful, polished introduction that sets the tone for your social escape. Whether you want to dazzle, charm, inspire, or piss off,
+ the introduction dialogue has you covered.
+
+
+### Why does this matter?
+
+Because social interactions don’t just start with a greeting — sometimes you need to make a grand entrance. The Gracious Professionalism tone brings new energy to your automated 
+responses, helping you stand out as the ultimate social avoidance guru who’s still impossibly kind and motivating, to the point of being sickening! (and because Michael told me I 
+needed to be more Graciously Professional because apparently wearing apriltag-covered cloating to compitions to sabatoge other team's robots is not, in fact, Graciously 
+Professional)
+
+
+### How to Use
+
+As always, just run the program as usual. The new tone option(s) and dialogue type(s) will be right there waiting for you in the menus. Pick what tone fits the conversation you 
+want to avoid, and let the Auto-Socializer do the rest!
+
+------------
+
+Stay antisocial (but like, super nice about it),
 
 **-rfrankfort.exe / B1n4ryV3ct0r**
