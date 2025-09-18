@@ -10,35 +10,35 @@ Now with interactive console input, you can choose the tone and type of dialogue
 **Features**
 
  
-  Random small talk lines, greetings, remarks, and goodbyes
+   - Random small talk lines, greetings, remarks, and goodbyes
 
-  Multiple selectable tones: Friendly, Sarcastic, and Formal
+   - Multiple selectable tones: Friendly, Sarcastic, and Formal
 
-  Interactive console interface to choose tone and dialogue type on the fly
+   - Interactive console interface to choose tone and dialogue type on the fly
 
-  NPC-style interactions for human-facing scenarios
+   - NPC-style interactions for human-facing scenarios
 
-  Makes you appear social without actually being social
+   - Makes you appear social without actually being social
 
-  Designed for maximum avoidance of real conversation
+   - Designed for maximum avoidance of real conversation
 
-  Helps you dodge unnecessary human interaction with style
+   - Helps you dodge unnecessary human interaction with style
 
 
 **Use Cases**
 
   
-  Building annoyingly shallow NPCs for games 
+  - Building annoyingly shallow NPCs for games 
 
-  Auto-generating polite (but distant) responses tailored to your mood
+  - Auto-generating polite (but distant) responses tailored to your mood
 
-  Acting as a buffer for human interaction
+  - Acting as a buffer for human interaction
 
-  Pretending to be engaged in conversation while doing literally anything else
+  - Pretending to be engaged in conversation while doing literally anything else
 
-  When you’re forced to socialize but your social battery is dead
+  - When you’re forced to socialize but your social battery is dead
 
-  When you're just done with everything, including other people
+  - When you're just done with everything, including other people
 
 
 **Why Did I Make This?**
