@@ -134,7 +134,7 @@ Because sometimes, being polite is not enough — you need to radiate positivity
 
 Because social interactions don’t just start with a greeting — sometimes you need to make a grand entrance. The Gracious Professionalism tone brings new energy to your automated 
 responses, helping you stand out as the ultimate social avoidance guru who’s still impossibly kind and motivating, to the point of being sickening! (and because Michael told me I 
-needed to be more Graciously Professional because apparently wearing apriltag-covered cloating to compitions to sabatoge other team's robots is not, in fact, Graciously 
+needed to be more Graciously Professional because apparently wearing apriltag-covered clothing to competitions to sabatoge other team's robots is not, in fact, Graciously 
 Professional)
 
 
