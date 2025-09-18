@@ -2,7 +2,7 @@
 Anti-Social Socializer/Dialogue Generator
 
 This project exists so I don't have to be social — despite *some* people's best efforts to make it otherwise.
-It’s essentially an NPC-style dialogue generator that spits out canned responses for greetings, goodbyes, remarks, and small talk — perfect for avoiding real human interaction while still seeming technically polite.
+It’s essentially an NPC-style dialogue generator that spits out canned responses for greetings, goodbyes, remarks, and small talk — perfect for avoiding real human interaction while still seeming *technically* polite.
 
 Now with interactive console input, you can choose the tone and type of dialogue you want, tailoring your generated responses to fit any situation or mood so you don't have to interpert those pesky social cues yourself! Whether you're building a game, an oddly extroverted yet shallow chatbot, or just trying to get through the day with minimal human interaction, this generator is here to help!
 
