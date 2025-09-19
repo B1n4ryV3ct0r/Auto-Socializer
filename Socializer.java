@@ -1,4 +1,4 @@
-/*Copyright [yyyy] [name of copyright owner]
+/*Copyright 2025 Ruthie Frankfort
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -476,6 +476,66 @@ public class Socializer {
             "Encouragement is the rocket fuel that propels dreams from the realm of possibility into dazzling reality!",
             "Every voice, every action is a vital brushstroke painting the masterpiece of our collective success!"
         });
+        
+         Map<String, String[]> michael = new HashMap<>();
+        michael.put("introduction", new String[]{
+            "(insert bouncing up and down in excitement)",
+            "(insert excited child appearing out of thin air)",
+            "hello!"
+        });
+        michael.put("greeting", new String[]{
+            "Hello!",
+            "What are we doing today?",
+            "(insert rapid running in distnace)",
+            "MICHAEL!"
+        });
+        michael.put("smalltalk", new String[]{
+            "small talk? there is no small talk. We're both programmers. What were you expecting?"
+        });
+        michael.put("remark", new String[]{
+            "im well aware of the fact im obsessed",
+            "stop acting like my mother! my sleep schedule, or lack thereof, is not your problem!",
+            "DATA!!!!!!!",
+            "CODE!!!!!!!!!!!!",
+            "helpful? i want to be helpful. can i be helpful?"
+        });
+        michael.put("goodbye", new String[]{
+            "byeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+            "whats the homework?",
+            "bye for now because you can never truly get rid of meeeeeee"
+        });
+        michael.put("compliment", new String[]{
+            "youre realy good at coding",
+            "youre really good at [insert thing]",
+            "thank you for being a genuinly nice human being"
+        });
+        michael.put("question", new String[]{
+            "(insert coding question)",
+            "whats the homework?",
+            "do we have homework?",
+            "can we have homework?",
+            "should i take notes on this?",
+            "arer you annoyed with me?",
+            "how can i be helpful?",
+            "why are all of my ideas not gracious professionalism?"
+        });
+        michael.put("advice", new String[]{
+            "Try turning it off and back on again",
+            "just google it!",
+            "use a passcode manager!"
+        });
+        michael.put("story", new String[]{
+            "one time i wrote a code to be social for me. this is it",
+            "one time a compsci major saw my code and started crying!"
+        });
+        michael.put("observation", new String[]{
+            "you are tall. it makes you very easy to hide behind.",
+            "people scare me.",
+            "you talk to youself when you code. or to the code. at this point, they're one and the same",
+            "you forgot a semicolon",
+            "camelCase!"
+        });
+
 
         dialogueMap.put("friendly", friendly);
         dialogueMap.put("sarcastic", sarcastic);
@@ -483,6 +543,7 @@ public class Socializer {
         dialogueMap.put("cheerful", cheerful);
         dialogueMap.put("melancholic", melancholic);
         dialogueMap.put("gracious professionalism", gracious);
+        dialogueMap.put("michael", michael);
     }
 
     private static String chooseTone() {
@@ -493,7 +554,8 @@ public class Socializer {
             "formal",
             "cheerful",
             "melancholic",
-            "gracious professionalism"
+            "gracious professionalism",
+            "michael"
         );
 
         for (int i = 0; i < tones.size(); i++) {
