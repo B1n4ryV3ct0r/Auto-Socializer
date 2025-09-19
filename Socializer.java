@@ -535,6 +535,45 @@ public class Socializer {
             "you forgot a semicolon",
             "camelCase!"
         });
+        
+         Map<String, String[]> emergency = new HashMap<>();
+        emergency.put("introduction", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+
+        });
+        emergency.put("greeting", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+
+        });
+        emergency.put("smalltalk", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+
+        });
+        emergency.put("remark", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+
+        });
+        emergency.put("goodbye", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+
+        });
+        emergency.put("compliment", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+
+        });
+        emergency.put("question", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+
+        });
+        emergency.put("advice", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+        });
+        emergency.put("story", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+        });
+        emergency.put("observation", new String[]{
+            "Hi. Its really loud/crowded and I'm feeling overwhealmed. May I please go to the restroom/step out of the room for a momment to calm down and collect myself? Thank you so much."
+        });
 
 
         dialogueMap.put("friendly", friendly);
@@ -544,6 +583,7 @@ public class Socializer {
         dialogueMap.put("melancholic", melancholic);
         dialogueMap.put("gracious professionalism", gracious);
         dialogueMap.put("michael", michael);
+        dialogueMap.put("emergency", emergency);
     }
 
     private static String chooseTone() {
@@ -555,7 +595,8 @@ public class Socializer {
             "cheerful",
             "melancholic",
             "gracious professionalism",
-            "michael"
+            "michael",
+            "emergency"
         );
 
         for (int i = 0; i < tones.size(); i++) {
