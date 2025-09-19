@@ -181,3 +181,34 @@ As always, just run the program as usual. The new tone option(s) and dialogue ty
 Michael. Michael. Michael. Michael. Michael. Michael. 
 
 **-rfrankfort.exe / B1n4ryV3ct0r**
+
+--------------------------------------------------------------
+
+## Important Mini Update — Emergency Response
+
+**v.actually.serious**
+
+Because sometimes, you get overwhealmed and start panicking and can't speak. Me too. And this update is here for you.
+
+### What’s New?
+
+- **Emergency tone added**
+
+The emergency tone (option 8) has only one message no matter which dialouge type you select. Its a prewritten message that explains that you are overwheamed because there are to 
+many people, it is too loud, or some other reason, and askes if you may be excused to step outside into the hallway for a moment/use the bathroom so you can take a secomd to calm down.
+
+### Why does this matter?
+
+Because sometimes, silly things can get serious. And sometimes, people need help, even if they can't ask for it. This update is for those moments, to help you. Because I know what it feels like. And I care. So I made this for the both of us. For you and me. Because mental health matters more than being antisocial. And reaching out can be hard. 
+
+### How to Use
+
+As always, just run the program as usual. The new tone option(s) will be right there waiting for you in the menu. Pick whichever one you need to, emergency or not and let the Auto-Socializer do the rest. Because a refusal to talk is sometimes a cry for help, and it's ok to not be ok. 
+
+------------
+
+Stay calm, stay safe, stay in touch with your emotions, and don't be afraid to ask for help 
+
+Because you matter,
+
+**-rfrankfort.exe / B1n4ryV3ct0r**
