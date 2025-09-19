@@ -148,3 +148,35 @@ want to avoid, and let the Auto-Socializer do the rest!
 Stay antisocial (but like, super nice about it),
 
 **-rfrankfort.exe / B1n4ryV3ct0r**
+
+--------------------------------------------------------------
+
+## Mini Update — Michael
+
+**v.michael.michael**
+
+Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael.
+
+
+### What’s New?
+
+- **Michael Tone Added!**
+Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael.
+Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. 
+
+
+### Why does this matter?
+
+Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. 
+Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. 
+Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. 
+
+### How to Use
+
+As always, just run the program as usual. The new tone option(s) and dialogue type(s) will be right there waiting for you in the menus. Pick Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael. Michael., and let the Auto-Socializer do the rest!
+
+------------
+
+Michael. Michael. Michael. Michael. Michael. Michael. 
+
+**-rfrankfort.exe / B1n4ryV3ct0r**
